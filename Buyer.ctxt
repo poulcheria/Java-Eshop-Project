@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Buyer
+comment1.params=bonus\ buyerCategory\ shoppingCart\ name\ email
+comment1.target=Buyer(int,\ java.lang.String,\ ShoppingCart,\ java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ awardBonus()
+comment3.params=
+comment3.target=void\ setbuyerCategory()
+comment4.params=itemincart
+comment4.target=void\ placeOrder(ItemOrdered)
+numComments=5

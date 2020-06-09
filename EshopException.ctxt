@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=EshopException
+comment1.params=
+comment1.target=EshopException()
+comment2.params=exc
+comment2.target=EshopException(java.lang.String)
+numComments=3
