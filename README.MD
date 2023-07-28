@@ -31,9 +31,9 @@ To run the Java Eshop project:
 
 ### Without BlueJ
 To run the Java Eshop project:  
-###Installation   
+### Installation   
 1. Install Java Development Kit (JDK)  
 2. Clone the Repository    
-###Usage    
+### Usage    
 1. Compile the Project: compile the application using the following command:javac Main.java  
 2. Run the Application: run the application using the following command: java Main  
