@@ -23,7 +23,17 @@ The Java Eshop project also consists of the following key classes:
 The Eshop project is implemented in Java using BlueJ as the development environment. It utilizes object-oriented programming principles and Java classes to represent various functionalities and interactions within the application.
 
 ## Installation and Usage
+**With BlueJ**
 To run the Java Eshop project:  
 1. Clone this repository to your local machine.  
 2. Open the project in BlueJ.  
-3. Compile and run the Main class to start the Eshop application.
+3. Compile and run the Main class.
+
+*Without BlueJ**
+To run the Java Eshop project:  
+**Installation**  
+1)Install Java Development Kit (JDK)
+2)Clone the Repository  
+**Usage**
+1)Compile the Project: compile the application using the following command:javac Main.java
+2)Run the Application: run the application using the following command: java Main
